@@ -3,6 +3,6 @@ A simple python script to automate Blum drop game
 
 Just install the requirements and you're good to go
 
-https://github.com/user-attachments/assets/d06c357d-b07e-4e56-92e1-e7f292d9757e
+https://github.com/user-attachments/assets/d0c45b60-0823-42a6-aa4b-76d05f560fc6
 
 Tested with BlueStacks 5 on Win10
